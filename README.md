@@ -8,3 +8,4 @@
 * **Segmentation:** Using techniques like KMeans clustering, the notebook segments customers into distinct groups based on their credit profiles.
 * **Visualization**: It includes visualizations (e.g., scatter plots) generated using Plotly, displaying how different customer segments are distributed based on credit scores.
 * **Summary:** It concludes with a summary of the insights and results from the segmentation
+**Tools** : Python , data visualiations , K-means clustering
